@@ -7,7 +7,7 @@ Demo application for a full-stack Angular/Azure-Func-Http application
 
 To get random data
 
-`curl https://catfact.z22.web.core.windows.net/facts/random`
+`curl https://catfact-api.azurewebsites.net/api/facts/random`
 
 #### OR once data is loaded onto site refresh the browser to see more random facts
 
