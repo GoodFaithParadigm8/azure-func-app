@@ -15,7 +15,7 @@
 !.vscode/extensions.json
 
 
-
+.vscode
 node_modules/*
 catfacts-server/dist
 catfacts-client/dist
